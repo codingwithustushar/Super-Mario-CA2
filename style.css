@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&family=Inter:wght@500&family=Poppins:ital,wght@0,300;1,100&family=Tilt+Neon&display=swap');
+
+body{
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(180deg, #0b034c 0%, rgba(4, 7, 17, 86%) 100%);
+    width: 1280px;
+    height: 832px;
+}
+
+.head{
+    margin-left: 287px;
+    margin-top: -7px;
+}
+
+.logo{
+    width: 313px;
+    height: 367px;
+    border: 0px solid #000;
+    margin-left: 586px;
+    margin-top: -72px;
+}
+.btn{
+    display: flex;
+    justify-content: space-around;
+    width: 99vw;
+}
+button{
+    width: 371px;
+    height: 121px;
+    background-color: rgba(199, 187, 187, 0.12);
+    border-radius: 53px;
+    font-size: 50px;
+    color: white;
+    font-weight: 900;
+    border: 7px solid black;
+    text-shadow: -7px 3px 2px black ;
+    
+
+}
+.inst{
+    margin-top: 102px;
+}
+.prof{
+    margin-top: 102px;
+}
+
+
+
